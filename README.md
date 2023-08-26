@@ -27,4 +27,7 @@ You can <img src="https://img.shields.io/static/v1?label=%E2%AD%90 Star &message
 Go [**`here`**](https://github.com/milaan9/93_Python_Data_Analytics_Projects) if you aren't here already and click ➞ **`✰ Star`** and **`ⵖ Fork`** button in the top right corner. You will be asked to create a GitHub account if you don't already have one.
 
 ---
+### How can I read this tutorial without an Internet connection? 
+<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
+
 
