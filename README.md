@@ -28,6 +28,6 @@ Go [**`here`**](https://github.com/milaan9/93_Python_Data_Analytics_Projects) if
 
 ---
 ### How can I read this tutorial without an Internet connection? 
-<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
+<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="300" />
 
 
