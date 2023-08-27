@@ -46,7 +46,7 @@ Go [**`here`**](https://github.com/faryal20/COVID19_Prediction_from_Chest_Xray_I
 <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="300" />
 
 
-1. Go [**`here`**](https://github.com/faryal20/COVID19_Prediction_from_Chest_Xray_Images_with_CNN) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**].
+1. Go [**`here`**](https://github.com/faryal20/COVID19_Prediction_from_Chest_Xray_Images_with_CNN). and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**]
 
     ![image](https://github.com/faryal20/COVID19_Prediction_from_Chest_Xray_Images_with_CNN/assets/57558029/9baa341d-5d2e-48e9-aea3-19c7555373c6)
 
