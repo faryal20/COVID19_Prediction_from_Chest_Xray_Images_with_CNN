@@ -47,7 +47,7 @@ Go [**`here`**](https://github.com/faryal20/COVID19_Prediction_from_Chest_Xray_I
 <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="300" />
 
 
-1. Go [**`here`**](https://github.com/faryal20/COVID19_Prediction_from_Chest_Xray_Images_with_CNN). and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/faryal20/COVID19_Prediction_from_Chest_Xray_Images_with_CNN/archives/refs/heads/main.zip)
+1. Go [**`here`**](https://github.com/faryal20/COVID19_Prediction_from_Chest_Xray_Images_with_CNN). and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/faryal20/COVID19_Prediction_from_Chest_Xray_Images_with_CNN.git)
     ![image](https://github.com/faryal20/COVID19_Prediction_from_Chest_Xray_Images_with_CNN/assets/57558029/9baa341d-5d2e-48e9-aea3-19c7555373c6)
 
 2. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.
