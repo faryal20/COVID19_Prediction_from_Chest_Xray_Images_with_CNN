@@ -48,4 +48,4 @@ Go [**`here`**](https://github.com/faryal20/COVID19_Prediction_from_Chest_Xray_I
 
 1. Go [**`here`**](https://github.com/faryal20/COVID19_Prediction_from_Chest_Xray_Images_with_CNN) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/milaan9/93_Python_Data_Analytics_Projects/archive/refs/heads/main.zip).
 
-    ![Download ZIP].(img\zip_git.PNG)
+    ![Download ZIP].(zip_git.PNG)
