@@ -14,6 +14,7 @@ In this project, Built and trained a convolutional neural network in Keras with 
 
 6.Test Set Loss : 0.1141
 
+Google Colab Project Link: https://colab.research.google.com/drive/1oeA2Rp5B_8VWtOXEoY7R4dQMaO4pZe_y?usp=sharing
 
 ![x-ray](https://github.com/faryal20/COVID19_Prediction_from_Chest_Xray_Images_with_CNN/assets/57558029/07d02b80-ff6e-4490-91a5-6d8d0c9cd863)
 
