@@ -17,6 +17,21 @@ In this project, Built and trained a convolutional neural network in Keras with 
 
 ![x-ray](https://github.com/faryal20/COVID19_Prediction_from_Chest_Xray_Images_with_CNN/assets/57558029/07d02b80-ff6e-4490-91a5-6d8d0c9cd863)
 
+## Install Necessary Modules:
+
+Open your Anaconda Prompt,type and run the following command (individually):
+
+pip install pandas
+
+
+pip install numpy
+
+
+pip install tensorflow
+
+
+Once installed now we can import it inside our python code.
+
 
 ## Frequently asked questions ❔
 
